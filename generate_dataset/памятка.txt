@@ -1,0 +1,5 @@
+на картинке вид папки, common_voice_processed появится самостоятельно
+запускать в таком порядке:
+concatenated_records
+mix_audio
+create_dataset
